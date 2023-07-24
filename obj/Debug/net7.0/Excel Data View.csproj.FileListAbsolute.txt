@@ -1,0 +1,48 @@
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.csproj.AssemblyReference.cache
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.AssemblyInfoInputs.cache
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.AssemblyInfo.cs
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.csproj.CoreCompileInputs.cache
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.RazorAssemblyInfo.cache
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.RazorAssemblyInfo.cs
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\appsettings.json
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Excel Data View.staticwebassets.runtime.json
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Excel Data View.exe
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Excel Data View.deps.json
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Excel Data View.runtimeconfig.json
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Excel Data View.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Excel Data View.pdb
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\ExcelDataReader.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\staticwebassets\msbuild.Excel Data View.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\staticwebassets\msbuild.build.Excel Data View.props
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Excel Data View.props
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Excel Data View.props
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\scopedcss\bundle\Excel Data View.styles.css
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\scopedcss\projectbundle\Excel Data View.bundle.scp.css
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.csproj.CopyComplete
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\refint\Excel Data View.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.pdb
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\Excel Data View.genruntimeconfig.cache
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\obj\Debug\net7.0\ref\Excel Data View.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khurr\source\repos\Excel Data View\Excel Data View\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
